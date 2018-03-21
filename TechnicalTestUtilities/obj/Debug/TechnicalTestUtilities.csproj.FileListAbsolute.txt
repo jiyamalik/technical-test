@@ -3,3 +3,9 @@ C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestUtilities\bin\Debug\Techni
 C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.csprojResolveAssemblyReference.cache
 C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.dll
 C:\GitHub\dynamiccredit-qa\TechnicalTest\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.pdb
+C:\workspace\git\technical-test\TechnicalTestUtilities\bin\Debug\TechnicalTestUtilities.dll
+C:\workspace\git\technical-test\TechnicalTestUtilities\bin\Debug\TechnicalTestUtilities.pdb
+C:\workspace\git\technical-test\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.csprojResolveAssemblyReference.cache
+C:\workspace\git\technical-test\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.csproj.CoreCompileInputs.cache
+C:\workspace\git\technical-test\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.dll
+C:\workspace\git\technical-test\TechnicalTestUtilities\obj\Debug\TechnicalTestUtilities.pdb

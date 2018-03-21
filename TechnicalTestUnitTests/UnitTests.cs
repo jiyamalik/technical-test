@@ -78,6 +78,7 @@
         [Fact]
         public void SumOfLargerSeriesOfNumbers()
         {
+            //
             // Adapt the relevant code in the 'TechnicalTestCore' project so that this unit test will pass
             // DO NOT change any code in this unit test or this project
             var maxInt = new Random().Next(70_000, 70_500);
