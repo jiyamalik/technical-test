@@ -5,7 +5,7 @@
 
     internal class Summations
     {
-        public static int SumOfNumbersFrom1Till(int maxInt)
+        public static int SumOfNumbersFrom1TillNrAsInt(int maxNrAsInt)
         {
             var sum = 0;
             for (var i = 1; i <= maxInt; i++)
@@ -16,7 +16,7 @@
             return sum;
         }
 
-        public static string SumOfIntegersFrom70KTill(int maxInt)
+        public static string SumOfNumbersFrom1TillNrAsString(string maxNrAsString)
         {
             long sum = 0;
             for (var i = 1; i <= maxInt; i++)
